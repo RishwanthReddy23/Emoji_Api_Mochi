@@ -28,3 +28,6 @@ This instrument permits the agents to log their vibes with emojis while the proc
 - The number of occurrences of each mood for **Present day** is represented in a bar chart
 - The visual changes in mood trends are depicted by the dynamic updates courtesy of **Plotly**
 - A good and simple UI with easily understandable interactions on **Streamlit**
+
+# Output 
+- **"streamlit run Emoji.py"** Run this code in output terminal it will automatically redirect to "Streeam lit" Web Dashboard.
