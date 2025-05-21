@@ -1,7 +1,7 @@
 # Emoji_Api_Mochi
 
 ### Downolad .py file
-##### I have Used Visual Studio Code for Execution()
+##### I have Used Visual Studio Code for Execution of python code.
 
 
 # Mood of the Tickets Queue
