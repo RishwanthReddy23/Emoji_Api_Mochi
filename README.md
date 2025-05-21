@@ -19,6 +19,8 @@ This instrument permits the agents to log their vibes with emojis while the proc
 - Download the Google Credinitials .JSON file.
 - Authenticate Google API Sheets
 - Nothe the google sheets ID From the top of google sheet.
+- The app is programmed to look for the credentials.json file (which has your Google API credentials) in the same directory as your main script (Emoji.py) by default. If your credentials.json file is in a location other than the default, you will have If your credentials.json file is saved somewhere different, you have no other way instead of updating the file path in your code to point to that location.
+
 ---
 #  Mood Logging
 - Choose a predefined mood from the dropdown (`😊 😠 😕 🎉`)
