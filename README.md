@@ -12,6 +12,12 @@ The home-taken experimentary is the way to create visually understandable and us
 The Operations team is swamped with lots of support tickets during the day, and a "vibe" often reflects on those tickets - as annoying, joyful, puzzling, etc.
 This instrument permits the agents to log their vibes with emojis while the process is ongoing and, if they wish, enter an optional note, which will be stored in Google Sheet. It also shows the mood development for the day of the week so that changes and patterns of sentiments can be spotted.
 ---
+# Setting Up Google Sheets
+- Set the google sheets by defining permissions
+- Download the Google Credinitials .JSON file.
+- Authenticate Google API Sheets
+- Nothe the google sheets ID From the top of google sheet.
+---
 #  Mood Logging
 - Choose a predefined mood from the dropdown (`😊 😠 😕 🎉`)
 - Optionally enter a small note
